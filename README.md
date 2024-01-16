@@ -14,6 +14,7 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 - [Task 300 - Longest Increasing Subsequence](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_300.java)
 - [Task 326 - Power of Three](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_326.java)
 - [Task 342 - Power of Four](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_342.java)
+- [Task 380 - Insert Delete GetRandom O(1)](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_380.java)
 - [Task 455 - Assign Cookies](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_455.java)
 - [Task 605 - Can Place Flowers](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_605.java)
 - [Task 872 - Leaf-Similar Trees](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_872.java)
@@ -41,6 +42,9 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 
 ### 342. Power of Four
 - [LeetCode Discussion](https://leetcode.com/problems/power-of-four/solutions/4197543/logarithmic-approach-in-java/)
+
+### 380. Insert Delete GetRandom O(1)
+- [LeetCode Discussion](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/solutions/4557838/beautiful-java-solution/)
 
 ### 455. Assign Cookies
 - [LeetCode Discussion](https://leetcode.com/problems/assign-cookies/solutions/4489190/an-efficient-greedy-algorithm-java/)
