@@ -20,6 +20,7 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 - [Task 872 - Leaf-Similar Trees](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_872.java)
 - [Task 938 - Range Sum of BST](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_938.java)
 - [Task 1026 - Maximum Difference Between Node and Ancestor](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1026.java)
+- [Task 1207 - Unique Number of Occurrences](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1207.java)
 - [Task 1347 - Minimum Number of Steps to Make Two Strings Anagram](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1347.java)
 - [Task 1431 - Kids With the Greatest Number of Candies](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1431.java)
 - [Task 1657 - Determine if Two Strings Are Close](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1657.java)
@@ -48,6 +49,9 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 
 ### 455. Assign Cookies
 - [LeetCode Discussion](https://leetcode.com/problems/assign-cookies/solutions/4489190/an-efficient-greedy-algorithm-java/)
+
+### 1207. Unique Number of Occurrences
+- [LeetCode Discussion](https://leetcode.com/problems/unique-number-of-occurrences/solutions/4581210/optimal-java-solution/)
 
 ### 1347. Minimum Number of Steps to Make Two Strings Anagram
 - [LeetCode Discussion](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/solutions/4557838/beautiful-java-solution/)
