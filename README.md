@@ -19,6 +19,7 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 - [Task 455 - Assign Cookies](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_455.java)
 - [Task 605 - Can Place Flowers](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_605.java)
 - [Task 872 - Leaf-Similar Trees](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_872.java)
+- [Task 931 - Minimum Falling Path Sum](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_931.java)
 - [Task 938 - Range Sum of BST](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_938.java)
 - [Task 1026 - Maximum Difference Between Node and Ancestor](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1026.java)
 - [Task 1207 - Unique Number of Occurrences](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1207.java)
