@@ -10,6 +10,7 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 - [Task 12 - Integer to Roman](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_12.java)
 - [Task 13 - Roman to Integer](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_13.java)
 - [Task 70 - Climbing Stairs](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_70.java)
+- [Task 198 - House Robber](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_198.java)
 - [Task 231 - Power of Two](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_231.java)
 - [Task 273 - Integer to English Words](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_273.java)
 - [Task 300 - Longest Increasing Subsequence](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_300.java)
