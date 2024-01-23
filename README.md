@@ -9,6 +9,7 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 - [Task 9 - Palindrome Number](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_9.java)
 - [Task 12 - Integer to Roman](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_12.java)
 - [Task 13 - Roman to Integer](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_13.java)
+- [Task 69 - Sqrt(x)](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_69.java)
 - [Task 70 - Climbing Stairs](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_70.java)
 - [Task 198 - House Robber](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_198.java)
 - [Task 231 - Power of Two](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_231.java)
@@ -43,6 +44,9 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 
 ### 13. Roman to Integer
 - [LeetCode Discussion](https://leetcode.com/discuss/topic/4189498/efficient-roman-to-integer-conversion-algorithm-in-java/)
+
+### 69. Sqrt(x)
+- [LeetCode Discussion](https://leetcode.com/problems/sqrtx/solutions/4615741/newton-raphson-method/)
 
 ### 273. Integer to English Words
 - [LeetCode Discussion](https://leetcode.com/problems/integer-to-english-words/solutions/4197447/a-three-digit-group-approach-in-java/)
