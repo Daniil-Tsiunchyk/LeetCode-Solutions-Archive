@@ -1,4 +1,4 @@
-public class Problem_12 {
+public class Problem_931 {
 
   public static void main(String[] args) {
     int[][] matrix1 = { { 2, 1, 3 }, { 6, 5, 4 }, { 7, 8, 9 } };

@@ -6,7 +6,7 @@ public class Problem_342 {
     System.out.println(Solution.isPowerOfFour(1));
   }
 
-  public static class Solution {
+  static class Solution {
 
     public static boolean isPowerOfFour(int n) {
       if (n <= 0) {
