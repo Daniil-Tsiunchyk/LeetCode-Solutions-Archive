@@ -26,6 +26,7 @@ Below is a list of the tasks I've solved, along with detailed explanations for s
 - [Task 938 - Range Sum of BST](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_938.java)
 - [Task 1026 - Maximum Difference Between Node and Ancestor](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1026.java)
 - [Task 1207 - Unique Number of Occurrences](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1207.java)
+- [Task 1239 - Maximum Length of a Concatenated String with Unique Characters](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1239.java)
 - [Task 1347 - Minimum Number of Steps to Make Two Strings Anagram](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1347.java)
 - [Task 1431 - Kids With the Greatest Number of Candies](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1431.java)
 - [Task 1657 - Determine if Two Strings Are Close](https://github.com/Daniil-Tsiunchyk/LeetCode-Solutions-Archive/tree/main/LeetCode/Problem_1657.java)
